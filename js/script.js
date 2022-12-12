@@ -5,8 +5,9 @@
     data() {
       return {
         title: 'Hello Vue!',
-        image: 
+        image: '../img/vuehello.png'
       }
-    }
+    },
+    
   }).mount('#app')
-
+  
