@@ -6,6 +6,7 @@
     data() {
       return {
         title: 'Hello Vue!',
+        imageSrc: './img/vuehello.png'
       
       }
     },
